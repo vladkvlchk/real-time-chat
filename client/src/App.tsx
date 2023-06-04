@@ -1,8 +1,8 @@
 import React from "react";
-import LongPulling from "./LongPulling";
+import EventSourcing from "./EventSourcing";
 
 function App() {
-  return <LongPulling />;
+  return <EventSourcing />;
 }
 
 export default App;
