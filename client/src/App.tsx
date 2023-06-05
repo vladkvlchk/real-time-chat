@@ -1,8 +1,8 @@
 import React from "react";
-import EventSourcing from "./EventSourcing";
+import WebSock from "./WebSock";
 
 function App() {
-  return <EventSourcing />;
+  return <WebSock />;
 }
 
 export default App;
